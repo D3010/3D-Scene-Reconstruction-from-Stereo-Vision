@@ -1,7 +1,4 @@
-# 3D-Reconstruction with Uncalibrated Stereo
-
-## Problem Statement
-As a drone delivery company, we face challenges in efficiently navigating urban environments with complex structures and obstacles. Traditional 2D mapping techniques may not provide sufficient situational awareness, hindering safe and precise delivery operations. To address this, we need a robust 3D reconstruction solution that can accurately model the 3D environment, enabling our drones to plan optimal flight paths, detect obstacles, and ensure reliable and timely deliveries in densely populated areas. This technology should enhance our drone's perception capabilities, allowing for better collision avoidance and navigation in dynamic and ever-changing urban landscapes.
+# stereo-vision-3d-reconstruction
 
 ## Abstract
 In our study, we evaluated the accuracy and efficiency of Multi-View Stereo (MVS) and Structure-from-Motion (SFM) technologies for 3D reconstruction. We utilized publicly available online datasets to assess the performance of these methods in generating detailed 3D models. The results highlighted MVS's proficiency in producing dense and intricate reconstructions. Meanwhile, SFM demonstrated greater efficiency in scenarios where a wide range of viewpoints was involved.
