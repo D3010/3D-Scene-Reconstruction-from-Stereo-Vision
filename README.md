@@ -1,4 +1,4 @@
-# stereo-vision-3d-reconstruction
+# 3D Scene Reconstruction from Stereo Vision
 
 ## Abstract
 In our study, we evaluated the accuracy and efficiency of Multi-View Stereo (MVS) and Structure-from-Motion (SFM) technologies for 3D reconstruction. We utilized publicly available online datasets to assess the performance of these methods in generating detailed 3D models. The results highlighted MVS's proficiency in producing dense and intricate reconstructions. Meanwhile, SFM demonstrated greater efficiency in scenarios where a wide range of viewpoints was involved.
